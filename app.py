@@ -67,3 +67,13 @@ df = pd.DataFrame({
 })
 
 st.dataframe(df) # Dataframe
+
+
+#-------------------------------------------------------------------------------------------
+
+
+# Sidebar
+st.sidebar.title("Sidebar")
+st.sidebar.header("This is a sidebar header") # Sidebar header
+st.sidebar.subheader("This is a sidebar subheader") # Sidebar subheader
+st.sidebar.text("Hello, World!") # Sidebar normal text
