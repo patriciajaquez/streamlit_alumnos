@@ -39,13 +39,15 @@ This project was developed as part of my learning process in data analysis and P
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
-   ```bash
+   ```python
    git clone https://github.com/patriciajaquez/streamlit_alumnos.git
 
 2. Install dependencies:
+   ```python
    pip3 install -r requirements.txt
 
-3. Run the app:
+4. Run the app:
+   ```python
    streamlit run app.py
 
 
